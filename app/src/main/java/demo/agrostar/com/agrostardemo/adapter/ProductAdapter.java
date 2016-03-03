@@ -34,7 +34,7 @@ public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.DataObje
         public DataObjectHolder(View itemView) {
             super(itemView);
             productName = (TextView) itemView.findViewById(R.id.productName);
-            productRate = (TextView) itemView.findViewById(R.id.productRate);
+            productRate = (TextView) itemViewgit commit -m "first commit".findViewById(R.id.productRate);
             productImage = (ImageView) itemView.findViewById(R.id.productImage);
             itemView.setOnClickListener(this);
         }
