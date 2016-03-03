@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AgrostarDemo</string>
+    <string name="rupees_symbol">&#x20b9;</string>
+    <string name="action_search">Search Product</string>
+    <string name="sample_product_description">sample data sample data  sample data  sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data sample data</string>
+    <string name="action_english">English</string>
+    <string name="action_japan">Japanese</string>
+    <string-array name="products_name">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+
+    <string-array name="products_rate">
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+        <item>10000</item>
+    </string-array>
+</resources>
